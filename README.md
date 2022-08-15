@@ -120,12 +120,16 @@ format:
 - [You Can't Count on Luck: Why Decision Transformers Fail in Stochastic Environments](https://arxiv.org/abs/2205.15967)
   - Keiran Paster, Sheila McIlraith, Jimmy Ba
   - Key: Stochastic Environments
-  - ExpEnv: Gambling, Connect Four, 2048
+  - ExpEnv: Gambling, Connect Four, [2048](https://github.com/FelipeMarcelino/2048-Gym)
 
 - [When does return-conditioned supervised learning work for offline reinforcement learning?](https://arxiv.org/abs/2206.01079)
   - David Brandfonbrener, Alberto Bietti, Jacob Buckman, Romain Laroche, Joan Bruna
   - Key: Theoretical analysis
   - ExpEnv: [MuJoco](https://github.com/openai/mujoco-py), [D4RL](https://github.com/rail-berkeley/d4rl)
+
+- [SimStu-Transformer: A Transformer-Based Approach to Simulating Student Behaviour](https://link.springer.com/chapter/10.1007/978-3-031-11647-6_67)
+    - Zhaoxing Li, Lei Shi, Alexandra Cristea, Yunzhan Zhou, Chenghao Xiao, Ziqi Pan
+    - Key: Intelligent Tutoring System
 
 ### ICML 2022
 
