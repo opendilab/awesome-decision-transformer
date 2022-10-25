@@ -7,11 +7,12 @@ Welcome to follow and star!
 
 ## Table of Contents
 
-- [A Taxonomy of DT Algorithms](#a-taxonomy-of-model-based-rl-algorithms)
+- [A Taxonomy of DT Algorithms](#a-taxonomy-of-decision-transformer-algorithms)
 - [Papers](#papers)
 
   - [Arxiv](#arxiv)
-  - [ICML 2022](#icml-2022) (**<font color="red">New!!!</font>**) 
+  - [CoRL 2022](#corl-2022) (**<font color="red">New!!!</font>**)
+  - [ICML 2022](#icml-2022)
   - [AAAI 2022](#aaai-2022)
   - [ICLR 2022](#iclr-2022)
   - [NeurIPS 2021](#neurips-2021)
@@ -49,6 +50,17 @@ format:
 ```
 
 ### Arxiv
+
+- [LATTE: LAnguage Trajectory TransformEr](https://arxiv.org/abs/2208.02918)
+  - Arthur Bucker, Luis Figueredo, Sami Haddadin, Ashish Kapoor, Shuang Ma, Sai Vemprala, Rogerio Bonatti
+  - Key: MultiModal,  Robotics
+  - Code: [official](https://github.com/arthurfenderbucker/latte-language-trajectory-transformer), [official](https://github.com/arthurfenderbucker/nl_trajectory_reshaper)
+  - ExpEnv: [CoppeliaSim](https://www.coppeliarobotics.com/)
+
+- [Q-learning Decision Transformer: Leveraging Dynamic Programming for Conditional Sequence Modelling in Offline RL](https://arxiv.org/abs/2209.03993)
+  - Taku Yamagata, Ahmed Khalil, Raul Santos-Rodriguez
+  - Key: Q-Learning
+  - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl)
 
 - [Multi-Game Decision Transformers](https://arxiv.org/abs/2205.15241)
   - Kuang-Huei Lee, Ofir Nachum, Mengjiao Yang, Lisa Lee, Daniel Freeman, Winnie Xu, Sergio Guadarrama, Ian Fischer, Eric Jang, Henryk Michalewski, Igor Mordatch
@@ -103,7 +115,7 @@ format:
 
 - [Deep Transformer Q-Networks for Partially Observable Reinforcement Learning](https://arxiv.org/abs/2206.01078)
   - Kevin Esslinger, Robert Platt, Christopher Amato
-  - Key: POMDP, Transformer Q-Networks
+  - Key: POMDP, Transformer Q-Learning
   - ExpEnv: [GV](https://github.com/abaisero/gym-gridverse), [Car Flag](https://github.com/hai-h-nguyen/pomdp-domains)
 
 - [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953)
@@ -130,6 +142,33 @@ format:
 - [SimStu-Transformer: A Transformer-Based Approach to Simulating Student Behaviour](https://link.springer.com/chapter/10.1007/978-3-031-11647-6_67)
     - Zhaoxing Li, Lei Shi, Alexandra Cristea, Yunzhan Zhou, Chenghao Xiao, Ziqi Pan
     - Key: Intelligent Tutoring System
+
+- [Attention-Based Learning for Combinatorial Optimization](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)
+    - Carson Smith
+    - Key: Combinatorial Optimization
+
+### CoRL 2022
+
+- [Offline Reinforcement Learning for Customizable Visual Navigation](https://openreview.net/forum?id=uhIfIEIiWm_)
+  - Dhruv Shah, Arjun Bhorkar, Hrishit Leen, Ilya Kostrikov, Nicholas Rhinehart, Sergey Levine
+  - Publisher:  CoRL 2022 (Oral)
+  - Key: Visual Navigation
+  - ExpEnv: [RECON](https://sites.google.com/view/recon-robot/)
+
+
+- [Instruction-driven history-aware policies for robotic manipulations](https://arxiv.org/abs/2209.04899)
+  - Pierre-Louis Guhur, Shizhe Chen, Ricardo Garcia, Makarand Tapaswi, Ivan Laptev, Cordelia Schmid
+  - Publisher:  CoRL 2022 (Oral)
+  - Key: Robotics, Language Instruction
+  - Code: [official](https://guhur.github.io/hiveformer/)
+  - ExpEnv: [RLBench](https://github.com/stepjam/RLBench/)
+
+- [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://arxiv.org/abs/2209.05451)
+  - Mohit Shridhar, Lucas Manuelli, Dieter Fox
+  - Publisher:  CoRL 2022
+  - Key: Robotics,  Language Grounding, Behavior Cloning
+  - Code: [official](https://guhur.github.io/hiveformer/)
+  - ExpEnv: [RLBench](https://github.com/stepjam/RLBench/)
 
 ### ICML 2022
 
