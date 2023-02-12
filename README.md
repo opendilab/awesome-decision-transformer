@@ -11,7 +11,8 @@ Welcome to follow and star!
 - [Papers](#papers)
 
   - [Arxiv](#arxiv)
-  - [CoRL 2022](#corl-2022) (**<font color="red">New!!!</font>**)
+  - [NeurIPS 2022](#neurips-2022) (**<font color="red">New!!!</font>**)
+  - [CoRL 2022](#corl-2022)
   - [ICML 2022](#icml-2022)
   - [AAAI 2022](#aaai-2022)
   - [ICLR 2022](#iclr-2022)
@@ -50,6 +51,21 @@ format:
 ```
 
 ### Arxiv
+
+- [Can Offline Reinforcement Learning Help Natural Language Understanding?](https://arxiv.org/abs/2212.03864)
+  - Ziqi Zhang, Yile Wang, Yue Zhang, Donglin Wang
+  - Key: Language model
+  - ExpEnv: MuJoco, Maze 2D
+
+- [Hierarchical Decision Transformer](https://arxiv.org/abs/2209.10447)
+  - André Correia, Luís A. Alexandre
+  - Key: Hierarchical Learning, Imitation Learning
+  - ExpEnv: [MuJoco](https://github.com/openai/mujoco-py), [D4RL](https://github.com/rail-berkeley/d4rl), RoboMimic, Maze 2D
+
+- [PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training](https://arxiv.org/abs/2209.11133)
+  - Rogerio Bonatti, Sai Vemprala, Shuang Ma, Felipe Frujeri, Shuhang Chen, Ashish Kapoor
+  - Key: Robotics, Pretrain, Multitask, Representation
+  - ExpEnv: MuSHR car, Habitat
 
 - [LATTE: LAnguage Trajectory TransformEr](https://arxiv.org/abs/2208.02918)
   - Arthur Bucker, Luis Figueredo, Sami Haddadin, Ashish Kapoor, Shuang Ma, Sai Vemprala, Rogerio Bonatti
@@ -146,6 +162,14 @@ format:
 - [Attention-Based Learning for Combinatorial Optimization](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)
     - Carson Smith
     - Key: Combinatorial Optimization
+
+### Neurips 2022
+
+- [Decision making as language generation](https://openreview.net/pdf?id=N47cSU036T)
+  - Roland Memisevic, Sunny Panchal, Mingu Lee
+  - Publisher:  NeurIPS 2022 Workshop FMDM
+  - Key: Generation
+  - ExpEnv: Traversals (Toy experiment)
 
 ### CoRL 2022
 
