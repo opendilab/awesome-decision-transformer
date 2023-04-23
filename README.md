@@ -11,7 +11,8 @@ Welcome to follow and star!
 - [Papers](#papers)
 
   - [Arxiv](#arxiv)
-  - [NeurIPS 2022](#neurips-2022) (**<font color="red">New!!!</font>**)
+  - [ICLR 2023](#iclr-2023) (**<font color="red">New!!!</font>**)
+  - [NeurIPS 2022](#neurips-2022)
   - [CoRL 2022](#corl-2022)
   - [ICML 2022](#icml-2022)
   - [AAAI 2022](#aaai-2022)
@@ -162,6 +163,15 @@ format:
 - [Attention-Based Learning for Combinatorial Optimization](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)
     - Carson Smith
     - Key: Combinatorial Optimization
+    
+### ICLR 2023
+
+- [EDGI: Equivariant Diffusion for Planning with Embodied Agents](https://arxiv.org/abs/2303.12410)
+  - Johann Brehmer, Joey Bose, Pim de Haan, Taco Cohen
+  - Publisher: ICLR 2023 Reincarnating RL workshop
+  - Key: rich geometric structure, equivariant, conditional generative modeling, representation
+  - ExpEnv: None 
+    
 
 ### Neurips 2022
 
