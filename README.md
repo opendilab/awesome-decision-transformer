@@ -11,7 +11,8 @@ Welcome to follow and star!
 - [Papers](#papers)
 
   - [Arxiv](#arxiv)
-  - [ICLR 2023](#iclr-2023) (**<font color="red">New!!!</font>**)
+  - [NeurIPS 2023](#neurips-2023) (**<font color="red">New!!!</font>**)
+  - [ICLR 2023](#iclr-2023)
   - [NeurIPS 2022](#neurips-2022)
   - [CoRL 2022](#corl-2022)
   - [ICML 2022](#icml-2022)
@@ -163,7 +164,15 @@ format:
 - [Attention-Based Learning for Combinatorial Optimization](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)
     - Carson Smith
     - Key: Combinatorial Optimization
-    
+
+### NeurIPS 2023
+
+- [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
+  - Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, Sepp Hochreiter
+  - Publisher: NeurIPS 2023 (Poster)
+  - Key: reinforcement learning, multi-task learning, continual learning, fine-tuning
+  - ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld), [DMControl](https://github.com/google-deepmind/dm_control)
+
 ### ICLR 2023
 
 - [EDGI: Equivariant Diffusion for Planning with Embodied Agents](https://arxiv.org/abs/2303.12410)
@@ -171,9 +180,15 @@ format:
   - Publisher: ICLR 2023 Reincarnating RL workshop
   - Key: rich geometric structure, equivariant, conditional generative modeling, representation
   - ExpEnv: None 
-    
 
-### Neurips 2022
+- [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
+  - Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, Sepp Hochreiter
+  - Publisher: ICLR 2023 Reincarnating RL workshop
+  - Key: reinforcement learning, multi-task learning, continual learning, fine-tuning
+  - ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld), [DMControl](https://github.com/google-deepmind/dm_control)
+
+
+### NeurIPS 2022
 
 - [Decision making as language generation](https://openreview.net/pdf?id=N47cSU036T)
   - Roland Memisevic, Sunny Panchal, Mingu Lee
