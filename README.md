@@ -54,6 +54,20 @@ format:
 
 ### Arxiv
 
+- [Prompt-Tuning Decision Transformer with Preference Ranking](https://arxiv.org/abs/2305.09648)
+  - Shengchao Hu, Li Shen, Ya Zhang, Dacheng Tao
+  - Key: Prompt-Tuning
+  - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl)
+
+- [Graph Decision Transformer](https://arxiv.org/abs/2303.03747)
+  - Shengchao Hu, Li Shen, Ya Zhang, Dacheng Tao
+  - Key: graph transformer
+  - ExpEnv: [Atari](https://github.com/openai/gym)
+
+- [A Survey on Transformers in Reinforcement Learning](https://arxiv.org/abs/2301.03044)
+  - Wenzhe Li, Hao Luo, Zichuan Lin, Chongjie Zhang, Zongqing Lu, Deheng Ye
+  - Key: survey
+
 - [Can Offline Reinforcement Learning Help Natural Language Understanding?](https://arxiv.org/abs/2212.03864)
   - Ziqi Zhang, Yile Wang, Yue Zhang, Donglin Wang
   - Key: Language model
@@ -166,6 +180,12 @@ format:
     - Key: Combinatorial Optimization
 
 ### NeurIPS 2023
+
+- [Elastic Decision Transformer](https://arxiv.org/abs/2307.02484)
+  - Yueh-Hua Wu, Xiaolong Wang, Masashi Hamaya
+  - Publisher: NeurIPS 2023
+  - Key: Offline RL, stitch trajectory, Multi-Task
+  - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl)
 
 - [Learning to Modulate pre-trained Models in RL](https://arxiv.org/abs/2306.14884)
   - Thomas Schmied, Markus Hofmarcher, Fabian Paischer, Razvan Pascanu, Sepp Hochreiter
