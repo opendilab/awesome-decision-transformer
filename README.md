@@ -53,6 +53,15 @@ format:
 ```
 
 ### Arxiv
+- [Rethinking Decision Transformer via Hierarchical Reinforcement Learning](https://arxiv.org/abs/2311.00267)
+  - Yi Ma, Chenjun Xiao, Hebin Liang, Jianye Hao
+  - Key: DT, Hierarchical Reinforcement Learning 
+  - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl)
+
+- [Decision ConvFormer: Local Filtering in MetaFormer is Sufficient for Decision Making ](https://arxiv.org/abs/2310.03022)
+  - Jeonghye Kim, Suyoung Lee, Woojun Kim, Youngchul Sung
+  - Key: MetaFormer, Decision ConvFormer
+  - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl), [Atari](https://github.com/openai/gym)
 
 - [Prompt-Tuning Decision Transformer with Preference Ranking](https://arxiv.org/abs/2305.09648)
   - Shengchao Hu, Li Shen, Ya Zhang, Dacheng Tao
