@@ -53,6 +53,16 @@ format:
 ```
 
 ### Arxiv
+- [Real-time Network Intrusion Detection via Decision Transformers](https://arxiv.org/abs/2312.07696)
+  - Jingdi Chen, Hanhan Zhou, Yongsheng Mei, Gina Adam, Nathaniel D. Bastian, Tian Lan
+  - Key: DT, Network Intrusion Detection
+  - ExpEnv: UNSW-NB15
+
+- [Is Feedback All You Need? Leveraging Natural Language Feedback in Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2312.04736)
+  - Sabrina McCallum, Max Taylor-Davies, Stefano V. Albrecht, Alessandro Suglia
+  - Key: DT, language feedback
+  - ExpEnv: [BabyAI](https://github.com/mila-iqia/babyai/tree/iclr19)
+
 - [Rethinking Decision Transformer via Hierarchical Reinforcement Learning](https://arxiv.org/abs/2311.00267)
   - Yi Ma, Chenjun Xiao, Hebin Liang, Jianye Hao
   - Key: DT, Hierarchical Reinforcement Learning 
