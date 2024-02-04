@@ -53,6 +53,11 @@ format:
 ```
 
 ### Arxiv
+- [Context-Former: Stitching via Latent Conditioned Sequence Modeling ](https://browse.arxiv.org/abs/2401.16452)
+  - Ziqi Zhang, Jingzehua Xu, Zifeng Zhuang, Jinxin Liu, Donglin wang
+  - Key: DT, Latent Conditioned Sequence Modeling
+  - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl)
+
 - [Real-time Network Intrusion Detection via Decision Transformers](https://arxiv.org/abs/2312.07696)
   - Jingdi Chen, Hanhan Zhou, Yongsheng Mei, Gina Adam, Nathaniel D. Bastian, Tian Lan
   - Key: DT, Network Intrusion Detection
