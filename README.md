@@ -354,6 +354,15 @@ format:
   - Code: [official](https://github.com/JannerM/trajectory-transformer)
   - ExpEnv: [MuJoco](https://github.com/openai/mujoco-py), [D4RL](https://github.com/rail-berkeley/d4rl)
 
+### PMLR 2023
+
+- [Constrained Decision Transformer for Offline Safe Reinforcement Learning](https://proceedings.mlr.press/v202/liu23m/liu23m.pdf)
+  - Zuxin Liu, Zijian Guo, Yihang Yao, Zhepeng Cen, Wenhao Yu, Tingnan Zhang, Ding Zhao
+  - Publisher: PMLR 2023
+  - Key: offline safe RL, trade-offs between safety and task performance
+  - ExpEnv: [MuJoco](https://github.com/openai/mujoco-py), [D4RL](https://github.com/rail-berkeley/d4rl)
+
+
 ## Contributing
 
 Our purpose is to make this repo even better. If you are interested in contributing, please refer to [HERE](CONTRIBUTING.md) for instructions in contribution.
