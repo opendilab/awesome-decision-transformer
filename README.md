@@ -11,7 +11,8 @@ Welcome to follow and star!
 - [Papers](#papers)
 
   - [Arxiv](#arxiv)
-  - [NeurIPS 2023](#neurips-2023) (**<font color="red">New!!!</font>**)
+  - [ICML 2023](#icml-2023) (**<font color="red">New!!!</font>**)
+  - [NeurIPS 2023](#neurips-2023)
   - [ICLR 2023](#iclr-2023)
   - [NeurIPS 2022](#neurips-2022)
   - [CoRL 2022](#corl-2022)
@@ -202,6 +203,14 @@ format:
 - [Attention-Based Learning for Combinatorial Optimization](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)
     - Carson Smith
     - Key: Combinatorial Optimization
+
+### ICML 2023
+
+- [Constrained Decision Transformer for Offline Safe Reinforcement Learning](https://arxiv.org/pdf/2302.07351)
+  - Zuxin Liu, Zijian Guo, Yihang Yao, Zhepeng Cen, Wenhao Yu, Tingnan Zhang, Ding Zhao
+  - Publisher: ICML 2023
+  - Key: offline safe RL, trade-offs between safety and task performance
+  - ExpEnv: [MuJoco](https://github.com/openai/mujoco-py), [D4RL](https://github.com/rail-berkeley/d4rl)
 
 ### NeurIPS 2023
 
