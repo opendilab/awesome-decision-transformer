@@ -12,6 +12,7 @@ Welcome to follow and star!
 
   - [Arxiv](#arxiv)
   - [NeurIPS 2023](#neurips-2023) (**<font color="red">New!!!</font>**)
+  - [CoRL 2023](#corl-2023)
   - [ICLR 2023](#iclr-2023)
   - [NeurIPS 2022](#neurips-2022)
   - [CoRL 2022](#corl-2022)
@@ -216,6 +217,15 @@ format:
   - Publisher: NeurIPS 2023 (Poster)
   - Key: reinforcement learning, multi-task learning, continual learning, fine-tuning
   - ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld), [DMControl](https://github.com/google-deepmind/dm_control)
+
+### CoRL 2023
+
+- [Q-Transformer](https://proceedings.mlr.press/v229/chebotar23a/chebotar23a.pdf)
+  - Yevgen Chebotar, Quan Vuong, Alex Irpan, Karol Hausman, Fei Xia, Yao Lu, Aviral Kumar, Tianhe Yu, Alexander Herzog, Karl Pertsch, Keerthana Gopalakrishnan, Julian Ibarz, Ofir Nachum, Sumedh Sontakke, Grecia Salazar, Huong T Tran, Jodilyn Peralta, Clayton Tan, Deeksha Manjunath, Jaspiar Singht, Brianna Zitkovich, Tomas Jackson, Kanishka Rao, Chelsea Finn, Sergey Levine
+  - Publisher: CoRL 2023
+  - Key: Reinforcement Learning, Offline RL, Transformers, Q-Learning, Robotic Manipulation
+  - Code: [Unofficial](https://github.com/lucidrains/q-transformer)
+  - ExpEnv: None
 
 ### ICLR 2023
 
