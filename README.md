@@ -241,6 +241,12 @@ format:
   - Key: reinforcement learning, multi-task learning, continual learning, fine-tuning
   - ExpEnv: [MetaWorld](https://github.com/Farama-Foundation/Metaworld), [DMControl](https://github.com/google-deepmind/dm_control)
 
+- [DeFog: Decision Transformer under Random Frame Dropping](https://arxiv.org/abs/2303.03391)
+  - Kaizhe Hu*, Ray Chen Zheng*, Yang Gao, Huazhe Xu
+  - Publisher: ICLR 2023
+  - Key: Offline RL, POMDP, Frame-Dropping, Practical Application
+  - Code: [official](https://github.com/hukz18/DeFog)
+  - ExpEnv: [MuJoco](https://github.com/openai/mujoco-py), [D4RL](https://github.com/rail-berkeley/d4rl), [Atari](https://github.com/openai/gym)
 
 ### NeurIPS 2022
 
