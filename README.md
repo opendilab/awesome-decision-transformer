@@ -11,7 +11,8 @@ Welcome to follow and star!
 - [Papers](#papers)
 
   - [Arxiv](#arxiv)
-  - [NeurIPS 2023](#neurips-2023) (**<font color="red">New!!!</font>**)
+  - [ICLR 2024](#iclr-2024) (**<font color="red">New!!!</font>**)
+  - [NeurIPS 2023](#neurips-2023)
   - [CoRL 2023](#corl-2023)
   - [ICLR 2023](#iclr-2023)
   - [NeurIPS 2022](#neurips-2022)
@@ -73,11 +74,6 @@ format:
   - Yi Ma, Chenjun Xiao, Hebin Liang, Jianye Hao
   - Key: DT, Hierarchical Reinforcement Learning 
   - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl)
-
-- [Decision ConvFormer: Local Filtering in MetaFormer is Sufficient for Decision Making ](https://arxiv.org/abs/2310.03022)
-  - Jeonghye Kim, Suyoung Lee, Woojun Kim, Youngchul Sung
-  - Key: MetaFormer, Decision ConvFormer
-  - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl), [Atari](https://github.com/openai/gym)
 
 - [Prompt-Tuning Decision Transformer with Preference Ranking](https://arxiv.org/abs/2305.09648)
   - Shengchao Hu, Li Shen, Ya Zhang, Dacheng Tao
@@ -203,6 +199,28 @@ format:
 - [Attention-Based Learning for Combinatorial Optimization](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)
     - Carson Smith
     - Key: Combinatorial Optimization
+
+### ICLR 2024
+
+- [Decision ConvFormer: Local Filtering in MetaFormer is Sufficient for Decision Making ](https://arxiv.org/abs/2310.03022)
+  - Jeonghye Kim, Suyoung Lee, Woojun Kim, Youngchul Sung
+  - Key: MetaFormer, Decision ConvFormer
+  - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl), [Atari](https://github.com/openai/gym)
+
+- [When should we prefer Decision Transformers for Offline Reinforcement Learning?](https://openreview.net/pdf?id=vpV7fOFQy4)
+  - Prajjwal Bhargava, Rohan Chitnis, Alborz Geramifard, Shagun Sodhani, Amy Zhang
+  - Key: offline reinforcement learning, sequence modeling, reinforcement learning
+  - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl)
+
+- [Transformers as Decision Makers: Provable In-Context Reinforcement Learning via Supervised Pretraining](https://openreview.net/pdf?id=yN4Wv17ss3)
+  - Licong Lin, Yu Bai, Song Mei
+  - Key: transformers, in-context learning, reinforcement learning, learning theory
+  - ExpEnv: [stochastic linear bandit]()
+
+- [Searching for High-Value Molecules Using Reinforcement Learning and Transformers](https://openreview.net/pdf?id=nqlymMx42E)
+  - Raj Ghugare, Santiago Miret, Adriana Hugessen, Mariano Phielipp, Glen Berseth
+  - Key: chemistry, reinforcement learning, language models
+  - ExpEnv: [docking and pytdc tasks]()
 
 ### NeurIPS 2023
 
