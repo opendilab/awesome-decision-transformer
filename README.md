@@ -224,6 +224,18 @@ format:
 
 ### NeurIPS 2023
 
+- [STEVE-1: A Generative Model for Text-to-Behavior in Minecraft](https://arxiv.org/pdf/2306.00937)
+  - Shalev Lifshitz, Keiran Paster, Harris Chan, Jimmy Ba, Sheila McIlraith
+  - Publisher: NeurIPS 2023
+  - Key: instruction-tuned Video Pretraining
+  - ExpEnv: [Minecraft]()
+
+- [Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection](https://proceedings.neurips.cc/paper_files/paper/2023/file/b2e63e36c57e153b9015fece2352a9f9-Paper-Conference.pdf)
+  - Yu Bai, Fan Chen, Huan Wang, Caiming Xiong, Song Mei
+  - Publisher: NeurIPS 2023
+  - Key: in-context learning, transformers, deep learning theory, learning theory
+  - ExpEnv: [in-context regression problems]()
+
 - [Elastic Decision Transformer](https://arxiv.org/abs/2307.02484)
   - Yueh-Hua Wu, Xiaolong Wang, Masashi Hamaya
   - Publisher: NeurIPS 2023
