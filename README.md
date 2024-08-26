@@ -237,6 +237,18 @@ format:
 
 ### NeurIPS 2023
 
+- [Structured state space models for in-context reinforcement learning](https://arxiv.org/abs/2303.03982)
+  - Chris Lu, Yannick Schroecker, Albert Gu, Emilio Parisotto, Jakob Foerster, Satinder Singh, Feryal Behbahani
+  - Publisher: NeurIPS 2023
+  - Key: state space model, in-context RL
+  - ExpEnv: [t-maze]()
+
+- [Supervised Pretraining Can Learn In-Context Reinforcement Learning](https://arxiv.org/abs/2306.14892)
+  - Jonathan N. Lee, Annie Xie, Aldo Pacchiano, Yash Chandak, Chelsea Finn, Ofir Nachum, Emma Brunskill
+  - Publisher: NeurIPS 2023
+  - Key: Decision Pretrained Transformer, in-context learning
+  - ExpEnv: [Dark Room]()
+
 - [Is Feedback All You Need? Leveraging Natural Language Feedback in Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2312.04736)
   - Sabrina McCallum, Max Taylor-Davies, Stefano V. Albrecht, Alessandro Suglia
   - Publisher: NeurIPS 2023 Workshop
