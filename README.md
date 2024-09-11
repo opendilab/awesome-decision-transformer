@@ -237,6 +237,18 @@ format:
 
 ### NeurIPS 2023
 
+- [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://arxiv.org/abs/2303.03982)
+  - Bill Yuchen Lin, Yicheng Fu, Karina Yang, Faeze Brahman, Shiyu Huang, Chandra Bhagavatula, Prithviraj Ammanabrolu, Yejin Choi, Xiang Ren
+  - Publisher: NeurIPS 2023
+  - Key: Dual-Process Theory
+  - ExpEnv: [ScienceWorld]()
+
+- [HIQL: Offline Goal-Conditioned RL with Latent States as Actions](https://arxiv.org/abs/2303.03982)
+  - Seohong Park, Dibya Ghosh, Benjamin Eysenbach, Sergey Levine
+  - Publisher: NeurIPS 2023
+  - Key: Hierarchical Goal-Conditioned RL, Offline Reinforcement Learning, Value Function Estimation
+  - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl)
+
 - [Structured state space models for in-context reinforcement learning](https://arxiv.org/abs/2303.03982)
   - Chris Lu, Yannick Schroecker, Albert Gu, Emilio Parisotto, Jakob Foerster, Satinder Singh, Feryal Behbahani
   - Publisher: NeurIPS 2023
