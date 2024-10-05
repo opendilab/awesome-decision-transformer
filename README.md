@@ -19,7 +19,8 @@ Welcome to follow and star!
 - [Papers](#papers)
 
   - [Arxiv](#arxiv)
-  - [ICML 2024](#icml-2024) (**<font color="red">New!!!</font>**)
+  - [IROS 2024](#iros-2024) (**<font color="red">New!!!</font>**)
+  - [ICML 2024](#icml-2024) 
   - [ICLR 2024](#iclr-2024) 
   - [NeurIPS 2023](#neurips-2023)
   - [CoRL 2023](#corl-2023)
@@ -169,6 +170,13 @@ format:
 - [Attention-Based Learning for Combinatorial Optimization](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)
     - Carson Smith
     - Key: Combinatorial Optimization
+      
+### IROS 2024
+- [Steering Decision Transformers via Temporal Difference Learning](https://cpsl.pratt.duke.edu/files/docs/d2t2.pdf)
+  - Hao-Lun Hsu, Alper Kamil Bozkurt, Juncheng Dong, Qitong Gao, Vahid Tarokh, Miroslav Pajic
+  - Publisher: IROS 2024
+  - Key: Robotics, offline reinforcement learning, sequence modeling
+  - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl), Robotic Manipulation, [CARLA](https://leaderboard.carla.org/)
 
 ### ICML 2024
 - [HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2405.18080)
