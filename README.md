@@ -86,6 +86,11 @@ format:
 ```
 
 ### Arxiv
+- [Decision MetaMamba: Integrating Multi-Modal Input Token Mixer into Mamba-Based Decision Models](https://browse.arxiv.org/abs/2408.10517)
+  - Wall Kim
+  - Key: SSM, Mamba, Sequential Decision Making
+  - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl)
+
 - [Context-Former: Stitching via Latent Conditioned Sequence Modeling ](https://browse.arxiv.org/abs/2401.16452)
   - Ziqi Zhang, Jingzehua Xu, Zifeng Zhuang, Jinxin Liu, Donglin wang
   - Key: DT, Latent Conditioned Sequence Modeling
