@@ -184,6 +184,13 @@ format:
   - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl), Robotic Manipulation, [CARLA](https://leaderboard.carla.org/)
 
 ### ICML 2024
+
+- [Generalization to New Sequential Decision Making Tasks with In-Context Learning](https://arxiv.org/abs/2312.03801)
+  - Sharath Chandra Raparthy, Eric Hambro, Robert Kirk, Mikael Henaff, Roberta Raileanu
+  - Publisher: ICML 2024
+  - Key: DT, In-Context Learning
+  - ExpEnv: [MiniHack](), [Procgen]()
+
 - [HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2405.18080)
   - Shengchao Hu, Ziqing Fan, Li Shen, Ya Zhang, Yanfeng Wang, Dacheng Tao
   - Publisher: ICML 2024
@@ -359,6 +366,12 @@ format:
 
 
 ### ICLR 2023
+
+- [In-context Reinforcement Learning with Algorithm Distillation](https://arxiv.org/abs/2210.14215)
+  - Michael Laskin, Luyu Wang, Junhyuk Oh, Emilio Parisotto, Stephen Spencer, Richie Steigerwald, DJ Strouse, Steven Stenberg Hansen, Angelos Filos, Ethan Brooks, maxime gazeau, Himanshu Sahni, Satinder Singh, Volodymyr Mnih
+  - Publisher: ICLR 2023
+  - Key: Reinforcement Learning, Transformers, Learning to Learn, Large Language Models
+  - ExpEnv: [Adversarial Bandit](), [Dark Room](), [Dark Key-to-Door](), [DMLab Watermaze]()
 
 - [EDGI: Equivariant Diffusion for Planning with Embodied Agents](https://arxiv.org/abs/2303.12410)
   - Johann Brehmer, Joey Bose, Pim de Haan, Taco Cohen
