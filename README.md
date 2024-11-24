@@ -19,6 +19,7 @@ Welcome to follow and star!
 - [Papers](#papers)
 
   - [Arxiv](#arxiv)
+  - [NeurIPS 2024](#neurips-2024) (**<font color="red">New!!!</font>**)
   - [IROS 2024](#iros-2024) (**<font color="red">New!!!</font>**)
   - [ICML 2024](#icml-2024) 
   - [ICLR 2024](#iclr-2024) 
@@ -175,7 +176,14 @@ format:
 - [Attention-Based Learning for Combinatorial Optimization](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)
     - Carson Smith
     - Key: Combinatorial Optimization
-      
+
+### NeurIPS 2024
+- [Decomposed Prompt Decision Transformer for Efficient Unseen Task Generalization](https://openreview.net/pdf?id=HcqnhqoXS3)
+  - Hongling Zheng, Li Shen, Yong Luo, Tongliang Liu, Jialie Shen, Dacheng Tao
+  - Publisher: NeurIPS 2024
+  - Key: Offline Reinforcement Learning, Prompt Tuning
+  - ExpEnv: [MuJoco](https://github.com/openai/mujoco-py)
+
 ### IROS 2024
 - [Steering Decision Transformers via Temporal Difference Learning](https://cpsl.pratt.duke.edu/files/docs/d2t2.pdf)
   - Hao-Lun Hsu, Alper Kamil Bozkurt, Juncheng Dong, Qitong Gao, Vahid Tarokh, Miroslav Pajic
