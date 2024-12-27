@@ -178,6 +178,11 @@ format:
     - Key: Combinatorial Optimization
 
 ### NeurIPS 2024
+- [Meta-DT: Offline Meta-RL as Conditional Sequence Modeling with World Model Disentanglement](https://arxiv.org/pdf/2410.11448)
+  - Zhi Wang, Li Zhang, Wenhao Wu, Yuanheng Zhu, Dongbin Zhao, Chunlin Chen
+  - Keyword: Offline Meta-Reinforcement Learning, Transformer, World Model Disentanglement
+  - ExpEnv: MuJoCo, Meta-World
+
 - [Decomposed Prompt Decision Transformer for Efficient Unseen Task Generalization](https://openreview.net/pdf?id=HcqnhqoXS3)
   - Hongling Zheng, Li Shen, Yong Luo, Tongliang Liu, Jialie Shen, Dacheng Tao
   - Publisher: NeurIPS 2024
