@@ -19,8 +19,9 @@ Welcome to follow and star!
 - [Papers](#papers)
 
   - [Arxiv](#arxiv)
-  - [NeurIPS 2024](#neurips-2024) (**<font color="red">New!!!</font>**)
-  - [IROS 2024](#iros-2024) (**<font color="red">New!!!</font>**)
+  - [ICLR 2025](#iclr-2025) (**<font color="red">New!!!</font>**)
+  - [NeurIPS 2024](#neurips-2024) 
+  - [IROS 2024](#iros-2024)
   - [ICML 2024](#icml-2024) 
   - [ICLR 2024](#iclr-2024) 
   - [NeurIPS 2023](#neurips-2023)
@@ -176,6 +177,12 @@ format:
 - [Attention-Based Learning for Combinatorial Optimization](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)
     - Carson Smith
     - Key: Combinatorial Optimization
+
+### ICLR 2025
+- [Long-Short Decision Transformer: Bridging Global and Local Dependencies for Generalized Decision-Making](https://openreview.net/forum?id=NHMuM84tRT)
+  - Jincheng Wang, Penny Karanasou, Pengyuan Wei, Elia Gatti, Diego Martinez Plasencia, Dimitrios Kanoulas
+  - Key: Deep Learning, Reinforcement Learning, Transformer, Decision Transformer, Long-Short Decision Transformer, OfflineRL
+  - ExpEnv: D4RL offline RL benchmark, Maze2d, Antmaze
 
 ### NeurIPS 2024
 - [Meta-DT: Offline Meta-RL as Conditional Sequence Modeling with World Model Disentanglement](https://arxiv.org/pdf/2410.11448)
