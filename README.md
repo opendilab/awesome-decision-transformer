@@ -180,6 +180,11 @@ format:
   - ExpEnv: D4RL offline RL benchmark, Maze2d, Antmaze
 
 ### NeurIPS 2024
+- [Adaptive Q-Aid for Conditional Supervised Learning in Offline Reinforcement Learning](https://arxiv.org/pdf/2402.02017)
+  - Jeonghye Kim, Suyoung Lee, Woojun Kim, Youngchul Sung
+  - Keyword: Q-learning, DT
+  - ExpEnv: [MuJoco](https://github.com/openai/mujoco-py), AntMaze, Adroit
+    
 - [Meta-DT: Offline Meta-RL as Conditional Sequence Modeling with World Model Disentanglement](https://arxiv.org/pdf/2410.11448)
   - Zhi Wang, Li Zhang, Wenhao Wu, Yuanheng Zhu, Dongbin Zhao, Chunlin Chen
   - Keyword: Offline Meta-Reinforcement Learning, Transformer, World Model Disentanglement
