@@ -14,34 +14,32 @@ Welcome to follow and star!
 
 ## Table of Contents
 
-- [Awesome Decision Transformer](#awesome-decision-transformer)
-  - [Table of Contents](#table-of-contents)
-  - [Overview of Transformer](#overview-of-transformer)
-    - [Advantage](#advantage)
-  - [Surveys](#surveys)
-  - [Papers](#papers)
-    - [Arxiv](#arxiv)
-    - [ICML 2025](#icml-2025)
-    - [ICLR 2025](#iclr-2025)
-    - [NeurIPS 2024](#neurips-2024)
-    - [IROS 2024](#iros-2024)
-    - [ICML 2024](#icml-2024)
-    - [ICLR 2024](#iclr-2024)
-    - [NeurIPS 2023](#neurips-2023)
-    - [CoRL 2023](#corl-2023)
-    - [IROS 2023](#iros-2023)
-    - [ICML 2023](#icml-2023)
-    - [ICRA 2023](#icra-2023)
-    - [ICLR 2023](#iclr-2023)
-    - [NeurIPS 2022](#neurips-2022)
-    - [CoRL 2022](#corl-2022)
-    - [ICML 2022](#icml-2022)
-    - [AAAI 2022](#aaai-2022)
-    - [ICLR 2022](#iclr-2022)
-    - [NeurIPS 2021](#neurips-2021)
-    - [ICML 2021](#icml-2021)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [A Taxonomy of DT Algorithms](#a-taxonomy-of-decision-transformer-algorithms)
+- [Surveys](#surveys)
+- [Papers](#papers)
+
+  - [Arxiv](#arxiv)
+  - [ICML 2025](#icml-2025) (**<font color="red">New!!!</font>**)
+  - [ICLR 2025](#iclr-2025)
+  - [NeurIPS 2024](#neurips-2024) 
+  - [IROS 2024](#iros-2024)
+  - [ICML 2024](#icml-2024) 
+  - [ICLR 2024](#iclr-2024) 
+  - [NeurIPS 2023](#neurips-2023)
+  - [CoRL 2023](#corl-2023)
+  - [IROS 2023](#iros-2023)
+  - [ICML 2023](#icml-2023)
+  - [ICRA 2023](#icra-2023)
+  - [ICLR 2023](#iclr-2023)
+  - [NeurIPS 2022](#neurips-2022)
+  - [CoRL 2022](#corl-2022)
+  - [ICML 2022](#icml-2022)
+  - [AAAI 2022](#aaai-2022)
+  - [ICLR 2022](#iclr-2022)
+  - [NeurIPS 2021](#neurips-2021)
+  - [ICML 2021](#icml-2021)
+- [Contributing](#contributing)
+
 
 ## Overview of Transformer
 
@@ -92,11 +90,6 @@ format:
 ```
 
 ### Arxiv
-- [Decision MetaMamba: Integrating Multi-Modal Input Token Mixer into Mamba-Based Decision Models](https://browse.arxiv.org/abs/2408.10517)
-  - Wall Kim
-  - Key: SSM, Mamba, Sequential Decision Making
-  - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl)
-
 - [Context-Former: Stitching via Latent Conditioned Sequence Modeling ](https://browse.arxiv.org/abs/2401.16452)
   - Ziqi Zhang, Jingzehua Xu, Zifeng Zhuang, Jinxin Liu, Donglin wang
   - Key: DT, Latent Conditioned Sequence Modeling
@@ -116,7 +109,6 @@ format:
   - Shengchao Hu, Li Shen, Ya Zhang, Dacheng Tao
   - Key: graph transformer
   - ExpEnv: [Atari](https://github.com/openai/gym)
-
 
 - [Can Offline Reinforcement Learning Help Natural Language Understanding?](https://arxiv.org/abs/2212.03864)
   - Ziqi Zhang, Yile Wang, Yue Zhang, Donglin Wang
@@ -183,6 +175,7 @@ format:
     - Key: Combinatorial Optimization
 
 
+
 ### ICML 2025
 
 - [Decision Mixer: Integrating Long-term and Local Dependencies via Dynamic Token Selection for Decision-Making](https://openreview.net/pdf?id=4oE8vTw5IU)
@@ -205,6 +198,7 @@ format:
   - Key: in-context learning, exploration, behavior cloning, adaptive agents, Reinforcement Learning.
   - ExpEnv: D4RL (Antmaze, Kitchen), simulated robotics, real-world robotics.
     
+
 ### ICLR 2025
 - [Long-Short Decision Transformer: Bridging Global and Local Dependencies for Generalized Decision-Making](https://openreview.net/forum?id=NHMuM84tRT)
   - Jincheng Wang, Penny Karanasou, Pengyuan Wei, Elia Gatti, Diego Martinez Plasencia, Dimitrios Kanoulas
@@ -212,6 +206,12 @@ format:
   - ExpEnv: D4RL offline RL benchmark, Maze2d, Antmaze
 
 ### NeurIPS 2024
+
+- [Adaptive Q-Aid for Conditional Supervised Learning in Offline Reinforcement Learning](https://arxiv.org/pdf/2402.02017)
+  - Jeonghye Kim, Suyoung Lee, Woojun Kim, Youngchul Sung
+  - Keyword: Q-learning, DT
+  - ExpEnv: [MuJoco](https://github.com/openai/mujoco-py), AntMaze, Adroit
+    
 - [Meta-DT: Offline Meta-RL as Conditional Sequence Modeling with World Model Disentanglement](https://arxiv.org/pdf/2410.11448)
   - Zhi Wang, Li Zhang, Wenhao Wu, Yuanheng Zhu, Dongbin Zhao, Chunlin Chen
   - Keyword: Offline Meta-Reinforcement Learning, Transformer, World Model Disentanglement
