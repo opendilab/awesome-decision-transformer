@@ -14,30 +14,34 @@ Welcome to follow and star!
 
 ## Table of Contents
 
-- [A Taxonomy of DT Algorithms](#a-taxonomy-of-decision-transformer-algorithms)
-- [Surveys](#surveys)
-- [Papers](#papers)
-
-  - [Arxiv](#arxiv)
-  - [ICLR 2025](#iclr-2025) (**<font color="red">New!!!</font>**)
-  - [NeurIPS 2024](#neurips-2024) 
-  - [IROS 2024](#iros-2024)
-  - [ICML 2024](#icml-2024) 
-  - [ICLR 2024](#iclr-2024) 
-  - [NeurIPS 2023](#neurips-2023)
-  - [CoRL 2023](#corl-2023)
-  - [IROS 2023](#iros-2023)
-  - [ICML 2023](#icml-2023)
-  - [ICRA 2023](#icra-2023)
-  - [ICLR 2023](#iclr-2023)
-  - [NeurIPS 2022](#neurips-2022)
-  - [CoRL 2022](#corl-2022)
-  - [ICML 2022](#icml-2022)
-  - [AAAI 2022](#aaai-2022)
-  - [ICLR 2022](#iclr-2022)
-  - [NeurIPS 2021](#neurips-2021)
-  - [ICML 2021](#icml-2021)
-- [Contributing](#contributing)
+- [Awesome Decision Transformer](#awesome-decision-transformer)
+  - [Table of Contents](#table-of-contents)
+  - [Overview of Transformer](#overview-of-transformer)
+    - [Advantage](#advantage)
+  - [Surveys](#surveys)
+  - [Papers](#papers)
+    - [Arxiv](#arxiv)
+    - [ICML 2025](#icml-2025)
+    - [ICLR 2025](#iclr-2025)
+    - [NeurIPS 2024](#neurips-2024)
+    - [IROS 2024](#iros-2024)
+    - [ICML 2024](#icml-2024)
+    - [ICLR 2024](#iclr-2024)
+    - [NeurIPS 2023](#neurips-2023)
+    - [CoRL 2023](#corl-2023)
+    - [IROS 2023](#iros-2023)
+    - [ICML 2023](#icml-2023)
+    - [ICRA 2023](#icra-2023)
+    - [ICLR 2023](#iclr-2023)
+    - [NeurIPS 2022](#neurips-2022)
+    - [CoRL 2022](#corl-2022)
+    - [ICML 2022](#icml-2022)
+    - [AAAI 2022](#aaai-2022)
+    - [ICLR 2022](#iclr-2022)
+    - [NeurIPS 2021](#neurips-2021)
+    - [ICML 2021](#icml-2021)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Overview of Transformer
 
@@ -178,6 +182,29 @@ format:
     - Carson Smith
     - Key: Combinatorial Optimization
 
+
+### ICML 2025
+
+- [Decision Mixer: Integrating Long-term and Local Dependencies via Dynamic Token Selection for Decision-Making](https://openreview.net/pdf?id=4oE8vTw5IU)
+  - Hongling Zheng, Li Shen, Yong Luo, Deheng Ye, Bo Du, Jialie Shen, Dacheng Tao
+  - Key: Offline RL, Conditional Sequence Modeling, Decision Transformer, dynamic token selection, Reinforcement Learning.
+  - ExpEnv: D4RL (Gym, Adroit, Kitchen, AntMaze, Maze2D)
+
+- [Ad Hoc Teamwork via Offline Goal-Based Decision Transformers](https://openreview.net/pdf?id=tl3FlgWScA)
+  - Xinzhi Zhang, Hohei Chan, Deheng Ye, Yi Cai, Mengchen Zhao
+  - Key: Ad Hoc Teamwork, Offline RL, Multi-agent RL, Decision Transformer, Reinforcement Learning.
+  - ExpEnv: Predator-prey (PP), Level-Based Foraging (LBF), Overcooked
+
+- [Unveiling Markov heads in Pretrained Language Models for Offline Reinforcement Learning](https://openreview.net/pdf?id=G2PujeWPAL)
+  - Wenhao Zhao, Qiushui Xu, Linjie Xu, Lei Song, Jinyu Wang, Chunlai Zhou, Jiang Bian
+  - Key: Decision Transformer, Offline RL, Pretrained Language Models (PLMs), Markov head, Reinforcement Learning.
+  - ExpEnv: MuJoCo, PointMaze
+  
+- [Behavioral Exploration: Learning to Explore via In-Context Adaptation](https://openreview.net/pdf?id=tlLkY9E2bZ)
+  - Andrew Wagenmaker, Zhiyuan Zhou, Sergey Levine
+  - Key: in-context learning, exploration, behavior cloning, adaptive agents, Reinforcement Learning.
+  - ExpEnv: D4RL (Antmaze, Kitchen), simulated robotics, real-world robotics.
+    
 ### ICLR 2025
 - [Long-Short Decision Transformer: Bridging Global and Local Dependencies for Generalized Decision-Making](https://openreview.net/forum?id=NHMuM84tRT)
   - Jincheng Wang, Penny Karanasou, Pengyuan Wei, Elia Gatti, Diego Martinez Plasencia, Dimitrios Kanoulas
