@@ -19,7 +19,8 @@ Welcome to follow and star!
 - [Papers](#papers)
 
   - [Arxiv](#arxiv)
-  - [ICLR 2025](#iclr-2025) (**<font color="red">New!!!</font>**)
+  - [ICML 2025](#icml-2025) (**<font color="red">New!!!</font>**)
+  - [ICLR 2025](#iclr-2025)
   - [NeurIPS 2024](#neurips-2024) 
   - [IROS 2024](#iros-2024)
   - [ICML 2024](#icml-2024) 
@@ -38,6 +39,7 @@ Welcome to follow and star!
   - [NeurIPS 2021](#neurips-2021)
   - [ICML 2021](#icml-2021)
 - [Contributing](#contributing)
+
 
 ## Overview of Transformer
 
@@ -108,7 +110,6 @@ format:
   - Key: graph transformer
   - ExpEnv: [Atari](https://github.com/openai/gym)
 
-
 - [Can Offline Reinforcement Learning Help Natural Language Understanding?](https://arxiv.org/abs/2212.03864)
   - Ziqi Zhang, Yile Wang, Yue Zhang, Donglin Wang
   - Key: Language model
@@ -173,6 +174,31 @@ format:
     - Carson Smith
     - Key: Combinatorial Optimization
 
+
+
+### ICML 2025
+
+- [Decision Mixer: Integrating Long-term and Local Dependencies via Dynamic Token Selection for Decision-Making](https://openreview.net/pdf?id=4oE8vTw5IU)
+  - Hongling Zheng, Li Shen, Yong Luo, Deheng Ye, Bo Du, Jialie Shen, Dacheng Tao
+  - Key: Offline RL, Conditional Sequence Modeling, Decision Transformer, dynamic token selection, Reinforcement Learning.
+  - ExpEnv: D4RL (Gym, Adroit, Kitchen, AntMaze, Maze2D)
+
+- [Ad Hoc Teamwork via Offline Goal-Based Decision Transformers](https://openreview.net/pdf?id=tl3FlgWScA)
+  - Xinzhi Zhang, Hohei Chan, Deheng Ye, Yi Cai, Mengchen Zhao
+  - Key: Ad Hoc Teamwork, Offline RL, Multi-agent RL, Decision Transformer, Reinforcement Learning.
+  - ExpEnv: Predator-prey (PP), Level-Based Foraging (LBF), Overcooked
+
+- [Unveiling Markov heads in Pretrained Language Models for Offline Reinforcement Learning](https://openreview.net/pdf?id=G2PujeWPAL)
+  - Wenhao Zhao, Qiushui Xu, Linjie Xu, Lei Song, Jinyu Wang, Chunlai Zhou, Jiang Bian
+  - Key: Decision Transformer, Offline RL, Pretrained Language Models (PLMs), Markov head, Reinforcement Learning.
+  - ExpEnv: MuJoCo, PointMaze
+  
+- [Behavioral Exploration: Learning to Explore via In-Context Adaptation](https://openreview.net/pdf?id=tlLkY9E2bZ)
+  - Andrew Wagenmaker, Zhiyuan Zhou, Sergey Levine
+  - Key: in-context learning, exploration, behavior cloning, adaptive agents, Reinforcement Learning.
+  - ExpEnv: D4RL (Antmaze, Kitchen), simulated robotics, real-world robotics.
+    
+
 ### ICLR 2025
 - [Long-Short Decision Transformer: Bridging Global and Local Dependencies for Generalized Decision-Making](https://openreview.net/forum?id=NHMuM84tRT)
   - Jincheng Wang, Penny Karanasou, Pengyuan Wei, Elia Gatti, Diego Martinez Plasencia, Dimitrios Kanoulas
@@ -180,6 +206,7 @@ format:
   - ExpEnv: D4RL offline RL benchmark, Maze2d, Antmaze
 
 ### NeurIPS 2024
+
 - [Adaptive Q-Aid for Conditional Supervised Learning in Offline Reinforcement Learning](https://arxiv.org/pdf/2402.02017)
   - Jeonghye Kim, Suyoung Lee, Woojun Kim, Youngchul Sung
   - Keyword: Q-learning, DT
