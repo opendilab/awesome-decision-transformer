@@ -19,7 +19,8 @@ Welcome to follow and star!
 - [Papers](#papers)
 
   - [Arxiv](#arxiv)
-  - [ICML 2025](#icml-2025) (**<font color="red">New!!!</font>**)
+  - [NeurIPS 2025](#neurips-2025) (**<font color="red">New!!!</font>**)
+  - [ICML 2025](#icml-2025) 
   - [ICLR 2025](#iclr-2025)
   - [NeurIPS 2024](#neurips-2024) 
   - [IROS 2024](#iros-2024)
@@ -174,7 +175,27 @@ format:
     - Carson Smith
     - Key: Combinatorial Optimization
 
+### NeurIPS 2025
 
+- [Value-Guided Decision Transformer: A Unified Reinforcement Learning Framework for Online and Offline Settings](https://openreview.net/forum?id=Ogml5bxDH3)
+  - Hongling Zheng, Li Shen, Yong Luo, Deheng Ye, Shuhan Xu, Bo Du, Jialie Shen, Dacheng Tao
+  - Key: Offline RL, Conditional Sequence Modeling, Decision Transformer
+  - ExpEnv: Gym, Adroit, Kitchen, AntMaze, Maze2D
+
+- [Prompt Tuning Decision Transformers with Structured and Scalable Bandits](https://openreview.net/forum?id=yI55mj6anU)
+  - Finn Rietz, Oleg Smirnov, Sara Karimi, Lele Cao
+  - Key: Reinforcement Learning, Decision Transformer, Prompt tuning, Bandits, Multi-task transfer
+  - ExpEnv: D4RL
+
+- [Adaptable Safe Policy Learning from Multi-task Data with Constraint Prioritized Decision Transformer](https://openreview.net/forum?id=HmsEHahtGx)
+  - Ruiqi Xue, Ziqian Zhang, Lihe Li, Cong Guan, Lei Yuan, Yang Yu
+  - Key: Reinforcement Learning, Safe Reinforcement Learning, Offline Reinforcement Learning, Multi-task Reinforcement Learning
+  - ExpEnv: OSRL
+
+- [MOSDT: Self-Distillation-Based Decision Transformer for Multi-Agent Offline Safe Reinforcement Learning](https://openreview.net/forum?id=SYDmbsqHI0)
+  - Yuchen Xia, Yunjian Xu
+  - Key: Multi-Agent Reinforcement Learning, Safe Reinforcement Learning, Offline Reinforcement Learning, Decision Transformer
+  - ExpEnv: MOSDB
 
 ### ICML 2025
 
