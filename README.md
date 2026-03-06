@@ -91,6 +91,11 @@ format:
 ```
 
 ### Arxiv
+- [Decision MetaMamba: Enhancing Selective SSM in Offline RL with Heterogeneous Sequence Mixing](https://arxiv.org/abs/2408.10517)
+  - Wall Kim, Chaeyoung Song, Hanul Kim
+  - Key: DT, SSM, Mamba
+  - ExpEnv: [D4RL](https://github.com/rail-berkeley/d4rl)
+
 - [Context-Former: Stitching via Latent Conditioned Sequence Modeling ](https://browse.arxiv.org/abs/2401.16452)
   - Ziqi Zhang, Jingzehua Xu, Zifeng Zhuang, Jinxin Liu, Donglin wang
   - Key: DT, Latent Conditioned Sequence Modeling
