@@ -63,20 +63,24 @@ Specifically, DT model is a causal transformer model conditioned on the desired 
 3. Enjoy the transformer models widely used in language and vision, which are easy to scale and adapt to multi-modal data.
 
 ## Surveys
+- [A Comparison Between Decision Transformers and Traditional Offline Reinforcement Learning
+Algorithms ...](https://arxiv.org/pdf/2511.16475) (2025)
+  - Ali Murtaza Caunhye1, Asad Jeewa1,  (University of KwaZulu-Natal, Durban, South Africa)
+  - Publisher: Proceedings of the 46th Annual conference of the South African Institute of Computer Scientists and Information Technologists (SIACSIT 2025)
 
-- [On Transforming Reinforcement Learning With Transformers: The Development Trajectory](https://ieeexplore.ieee.org/abstract/document/10546317)
+- [On Transforming Reinforcement Learning With Transformers: The Development Trajectory](https://ieeexplore.ieee.org/abstract/document/10546317) (2024)
   - Shengchao Hu, Li Shen, Ya Zhang, Yixin Chen, Dacheng Tao
   - Publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 
-- [Large sequence models for sequential decision-making: a survey](https://link.springer.com/article/10.1007/s11704-023-2689-5)
+- [Large sequence models for sequential decision-making: a survey](https://link.springer.com/article/10.1007/s11704-023-2689-5) (2023)
   - Muning Wen, Runji Lin, Hanjing Wang, Yaodong Yang, Ying Wen, Luo Mai, Jun Wang, Haifeng Zhang, Weinan Zhang
   - Publisher: Frontiers of Computer Science
 
-- [A Survey on Transformers in Reinforcement Learning](https://arxiv.org/abs/2301.03044)
+- [A Survey on Transformers in Reinforcement Learning](https://arxiv.org/abs/2301.03044) (2023)
   - Wenzhe Li, Hao Luo, Zichuan Lin, Chongjie Zhang, Zongqing Lu, Deheng Ye
   - Publisher: Transactions on Machine Learning Research (TMLR)
 
-- [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/abs/2307.05979)
+- [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/abs/2307.05979) (2023)
   - Pranav Agarwal, Aamer Abdul Rahman, Pierre-Luc St-Charles, Simon J.D. Prince, Samira Ebrahimi Kahou
 
 
