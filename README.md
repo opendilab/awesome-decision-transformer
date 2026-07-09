@@ -682,7 +682,7 @@ format:
   - Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas, Igor Mordatch
   - Publisher: NeurIPS 2021 (Poster)
   - Key: Conditional sequence modeling
-  - Code: [official](https://github.com/kzl/decision-transformer), [DI-engine](https://github.com/opendilab/DI-engine/blob/main/dizoo/d4rl/entry/d4rl_dt_main.py)
+  - Code: [official](https://github.com/kzl/decision-transformer), [DI-engine](https://github.com/opendilab/DI-engine/blob/main/dizoo/d4rl/entry/d4rl_dt_main.py), [nanoDT](https://github.com/lubiluk/nanoDT)
   - ExpEnv: [MuJoco](https://github.com/openai/mujoco-py), [D4RL](https://github.com/rail-berkeley/d4rl), [Atari](https://github.com/openai/gym)
 
 - [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039)
