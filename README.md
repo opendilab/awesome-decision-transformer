@@ -593,6 +593,13 @@ format:
   - Key: Generation
   - ExpEnv: Traversals (Toy experiment)
 
+- [UniMASK: Unified Inference in Sequential Decision Problems](https://arxiv.org/abs/2211.10869)
+  - Micah Carroll, Orr Paradise, Jessy Lin, Raluca Georgescu, Mingfei Sun, David Bignell, Stephanie Milani, Katja Hofmann, Matthew Hausknecht, Anca Dragan, Sam Devlin
+  - Publisher: NeurIPS 2022
+  - Key: Masked prediction, Unified inference (BC, offline RL, goal/waypoint conditioning, inverse dynamics)
+  - Code: [official](https://github.com/micahcarroll/uniMASK)
+  - ExpEnv: Minigrid (Gridworld), [D4RL](https://github.com/rail-berkeley/d4rl) Maze2D
+
 ### CoRL 2022
 
 - [Offline Reinforcement Learning for Customizable Visual Navigation](https://openreview.net/forum?id=uhIfIEIiWm_)
